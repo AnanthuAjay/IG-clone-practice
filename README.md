@@ -1,9 +1,9 @@
 # IG-clone-practice
 This is an Instagram clone using React Native, Firebase Firestore, Firebase storage, Redux, and Expo. The app includes an authentication system, database, storage, and more.
 
-## 📱 Usage
+## Usage
 
-To Start expo all you have to do is run this line
+To Start expo, you need to do is run this line
 ```sh
 expo start
 ```
